@@ -19,8 +19,8 @@ public class UnitTest1
     [Fact]
     public void Test3()
     {
-        bool test = true;
+        bool teste = true;
 
-        Assert.True(test);
+        Assert.True(teste);
     }
 }
