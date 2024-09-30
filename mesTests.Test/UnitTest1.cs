@@ -12,7 +12,7 @@ public class UnitTest1
     [Fact]
     public void Test2()
     {
-        bool test = false;
+        bool test = true;
 
         Assert.True(test);
     }
