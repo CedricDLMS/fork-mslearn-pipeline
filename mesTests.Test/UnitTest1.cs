@@ -23,4 +23,11 @@ public class UnitTest1
 
         Assert.True(teste);
     }
+    [Fact]
+    public void Test4()
+    {
+        bool teste = true;
+
+        Assert.True(teste);
+    }
 }
